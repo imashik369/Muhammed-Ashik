@@ -1,0 +1,4 @@
+url: "https://muhammedashik.in"
+
+plugins:
+  - jekyll-sitemap
